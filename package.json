@@ -20,7 +20,6 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
-    "immutable": "^3.8.1",
     "react": "^0.13.3"
   }
 }
