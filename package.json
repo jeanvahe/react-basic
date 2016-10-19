@@ -22,7 +22,13 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
+    "@risingstack/graffiti-mongoose": "^5.1.0",
     "babel-runtime": "^6.9.2",
-    "react": "^0.13.3"
+    "graphql": "^0.6.1",
+    "mongoose": "^4.5.4",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-bootstrap-table": "^2.5.1",
+    "reactable": "^0.14.0"
   }
 }

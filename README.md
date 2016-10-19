@@ -5,6 +5,7 @@
 4_props.js             - react props
 5_form.js              - react form
 6_lifecycle.js         - lifecyle
+7_async_fetch.js       - fetch 
 
 
 update:using await async 
