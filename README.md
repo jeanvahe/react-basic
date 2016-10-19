@@ -1,4 +1,7 @@
-# react-basic
+# react-start
+
+a startup of React Native
+list of used libs:
 
 2_component_insert.js  - dynamic decide rendering
 3_state.js             - react state
@@ -13,6 +16,19 @@ update:using await async
 babel-plugin-transform-runtime
 babel-preset-stage-0
 babel-runtime
+## Development Workflow
+
+### install
+
+```
+npm install
+```
+
+### Test
+
+```
+npm start
+```
 
 
 
