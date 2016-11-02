@@ -1,5 +1,4 @@
 import React from 'react';
-import Reactable from 'reactable';
 
 export default React.createClass({
     getInitialState:function (){
@@ -26,16 +25,9 @@ export default React.createClass({
     }
   },
  render() {
+        console.log(this.state.weather);
         return (
-                <Reactable.Table className="table" data={this.state.weather} 
-                    columns={[{key: "date", label: "date"}, 
-                              {key: "high", label: "high"},  
-                              {key: "low",  label: "low"},
-                              {key: "text_day", label: "day"},
-                              {key: "text_night", label: "night"}, 
-                              {key: "wind_direction", label: "wind"} 
-                              ]} 
-                              />
+                <div />
         )
  },
 });
